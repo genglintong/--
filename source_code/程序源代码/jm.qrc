@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file alias="地图">a.jpg</file>
+        <file>b.jpg</file>
+        <file>c.jpg</file>
+        <file>image.png</file>
+        <file>d.png</file>
+        <file>a.png</file>
+        <file>e.png</file>
+        <file>f.png</file>
+    </qresource>
+</RCC>
